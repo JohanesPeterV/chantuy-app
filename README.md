@@ -38,3 +38,7 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Important Note
+
+Before running the application, ensure to add an API key to the `google-services.json` file located in the `app/` directory. This is necessary for Firebase services to function correctly. If you do not have an API key, you can obtain one from the Firebase Console.
